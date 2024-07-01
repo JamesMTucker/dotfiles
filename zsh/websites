@@ -1,0 +1,7 @@
+
+# Websites
+alias youtube="open https://youtube.com"
+alias pubmed="open https://pubmed.ncbi.nlm.nih.gov/"
+alias bioportal="open https://bioportal.bioontology.org/"
+alias chatGPT="open https://chat.openai.com/"
+alias lkdin="open https://www.linkedin.com/feed/"

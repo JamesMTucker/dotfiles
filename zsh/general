@@ -1,0 +1,8 @@
+
+# general
+alias open="xdg-open"
+alias lls="ls -alh"
+alias lc="ls -GFlash --color"
+alias bat="batcat"
+alias zshconfig="nvim ~/.zshrc"
+alias ohmyzsh="nvim ~/.oh-my-zsh"

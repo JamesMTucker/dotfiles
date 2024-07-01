@@ -1,0 +1,12 @@
+
+# when using pycharm
+#alias pycharm_opa="cd ~/pycharmprojects/opa/"
+#alias pycharm_per="cd ~/pycharmprojects/personal/"
+#alias lacie="cd /media/james/lacie/"
+
+alias data="cd /media/james/Data/"
+alias projects="cd /media/james/Projects/"
+alias project_notes="cd ~/Dropbox/projects/notes/"
+alias coding_notes="cd ~/Dropbox/CompSci/notes/coding"
+alias coding="cd ~/Dropbox/CompSci"
+alias dwnlds="cd ~/Downloads"

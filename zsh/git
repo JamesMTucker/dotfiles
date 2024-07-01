@@ -1,0 +1,8 @@
+# git
+alias ggu="git add -u"
+alias ggp="git push"
+alias gga="git add ."
+alias ggc="git commit -m"
+alias ggs="git status"
+alias ggl="git log"
+alias ggd="git diff"

@@ -1,0 +1,3 @@
+# alias functions
+searchgit() { batcat ~/.dictionaries/gitshortcuts.txt | grep -iP "$1" | batcat -l txt; }
+neovim() { batcat ~/.dictionaries/neovim.csv | grep -iP "$1" | batcat -l csv; }
